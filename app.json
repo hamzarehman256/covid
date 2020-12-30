@@ -1,0 +1,12 @@
+{
+  "name": "covid_tracker",
+  "displayName": "covid_tracker",
+  "expo": {
+    "name": "covid_tracker",
+    "slug": "covid_tracker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
